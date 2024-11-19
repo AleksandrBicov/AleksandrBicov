@@ -1,4 +1,4 @@
-Hi 👋 My name is Alexander Bykov
+Hi 👋 My name is Alexander Bikov
 ================================
 
 JAVA developer
