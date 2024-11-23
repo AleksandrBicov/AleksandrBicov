@@ -9,8 +9,8 @@ I'm currently learning Java programming on the Hexlet platform.
 * 🌍  I'm based in Russia, Moscow
 * ✉️  You can contact me at [erldimitrovgrad@gmail.com](mailto:erldimitrovgrad@gmail.com)
 * ✉️  Telegram https://t.me/AleksandrBicov
-* 🧠  I'm learning I'm learning Java
-* 🤝  I'm open to collaborating on I'm open to collaborating on Any java based projects
+* 🧠  I'm learning Java
+* 🤝  I'm open to collaborating on Any java based projects
 
 ### Skills
 
